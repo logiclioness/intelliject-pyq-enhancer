@@ -26,7 +26,9 @@ Dual-pane dark mode layout, with custom fonts and background image — tailored 
 
 ## 🗂 Project Structure
 intelliject-pyq-enhancer/
-├── app/
+
+├── app/ 
+
 │   ├── main.py                
 │   └── subjects/              
 ├── assets/
